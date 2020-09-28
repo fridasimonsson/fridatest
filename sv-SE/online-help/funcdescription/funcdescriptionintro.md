@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction till funktionerna i CA
+# Introduktion till funktionerna i CA
 
 ### Hjälp för varje funktion <a name="funcdescriptionhelp"/>
 
