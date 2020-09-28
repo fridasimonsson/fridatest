@@ -12,3 +12,4 @@ table td { font-size:14px !important; text-align:left !important; }
 # Table of content
 
 * [Introduction](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md)
+      * [Online help](https://github.com/fridasimonsson/fridatest/blob/master/en/online-help/introduction.md#onlinehelp)
