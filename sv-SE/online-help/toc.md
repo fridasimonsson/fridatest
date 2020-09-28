@@ -9,9 +9,9 @@ table td { font-size:14px !important; text-align:left !important; }
 </style>
 
 
-# Table of content
+# Innehållsförteckning
 
-* [Introduction](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md)
-	* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/en/sv-SE/introduction.md#onlinehelp)
-		* [General description of structure in Visma Proceedo](https://github.com/cajsaahlinder/cajsatest/blob/master/en/online-help/introduction.md#general)
+* [Introduktion](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md)
+	* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md#onlinehelp)
+		* [Introduction till funktionerna i CA](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/funcdescriptionintro.md)
 
