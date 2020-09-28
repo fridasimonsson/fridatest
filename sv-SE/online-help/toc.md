@@ -14,6 +14,6 @@ table td { font-size:14px !important; text-align:left !important; }
 * [Introduktion](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md)
 	* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md#onlinehelp)
 		* [Introduction till funktionerna i CA](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/funcdescriptionintro.md)
-			* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md#onlinehelp)
-		* [Introduction till funktionerna i CA](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/funcdescriptionintro.md)		
+			* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/administration/typeofcontract.md)
+				
 
