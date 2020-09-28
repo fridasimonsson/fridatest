@@ -8,8 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Introduktion
 
-### Online help <a name="onlinehelp"/>
+### Online hjälp <a name="onlinehelp"/>
 
 Detta är en introduktion till ...
