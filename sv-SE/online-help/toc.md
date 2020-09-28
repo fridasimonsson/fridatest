@@ -15,5 +15,6 @@ table td { font-size:14px !important; text-align:left !important; }
 	* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/introduction.md#onlinehelp)
 		* [Introduktion till funktionerna i CA](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/funcdescriptionintro.md)
 			* [Typ av avtal](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/administration/typeofcontract.md)
+			* [Roller för kontaktpersoner](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/administration/contactpersons.md)
 				
 
