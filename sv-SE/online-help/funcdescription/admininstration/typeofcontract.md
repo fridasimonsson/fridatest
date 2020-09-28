@@ -10,7 +10,7 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Typ av avtal
 
-Här väljer man vilka avtalstyper som ska vara valbara när avtal skapas eller ändras.
+Här väljs vilka avtalstyper som ska vara valbara när avtal skapas eller ändras.
 
 Typ av avtal som kan väljas är följande:
 * Avropsavtal
