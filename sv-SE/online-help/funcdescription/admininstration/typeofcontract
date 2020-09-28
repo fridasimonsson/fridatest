@@ -9,3 +9,608 @@ table td { font-size:14px !important; text-align:left !important; }
 </style>
 
 # Order ways
+
+> Prerequisites: Access attributes 4901-4906
+
+
+Supplier agreements must be set up and configured in terms of conditions and supplier before requisitions can be created. The products ([items]((https://github.com/cajsaahlinder/cajsatest/blob/master/en/online-help/buyer/items.md))) covered by the agreement are also linked to the order way.
+
+Order ways can be searched for according to:
+* Alternatives
+	* The “Hidden only” option displays only those which have the “Hide for users” box checked under the “General” tab.
+* Validity
+	* All active (all agreements which have not been archived)
+	* Expired only (where the “Valid to” date has passed (“Agreement” tab))
+	* Current only
+	* Future only (where the “Valid from” date has not yet passed (“Agreement” tab))
+* Archived
+* Group (agreements which are assigned to a selected group)
+
+You can use the ”Change user” button to assign the agreement to a group or users. Supplier agreements are shown with their name under available agreements (Supplier name -> General tab; Field ”Supplier name”).
+
+
+Supplier agreements can be integrated from Visma TendSign. These supplier agreements are updated and added to Visma Proceedo overnight. The TendSign integration setup is administered by Visma Commerce AB.
+
+The register of supplier agreements is common to the whole setup, which is why the settings that are configured will generally apply to all organisations when they use the same agreements. 
+
+Every supplier agreement is created using all the parameters. No template agreement is created for a supplier agreement as in the case of an organisation and invoice supplier. 
+
+A supplier agreement is never deleted, but only archived. After archiving, it can only be copied to a new supplier agreement. When copying agreements, links to agreements, agreement attachments or the items will not be copied to the new supplier agreement. 
+
+A supplier agreement contains details about the supplier. But this is the agreement supplier and must not be mixed up with the invoice supplier, who is the supplier that issues the invoice. 
+
+If you click on the i button while a requisition is being registered (Procurement -> Create requisition), you will see the screen below when looking at a supplier agreement. The content on the screen comes from the fields which are marked with “i” when you create a supplier agreement. The supplier information appears on the left of the screen and agreement information on the right. An end user who has the appropriate role also has an option to insert comments on the screen for the agreement owner. The comments will be sent to the agreement owner if an e-mail address is specified under Administration -> Supplier agreements -> Agreement tab. Otherwise, the comment is saved in the supplier agreement under Administration -> Supplier agreements -> Texts tab.
+
+
+### New/Change agreement <a name="new"/>
+
+A new agreement can be created or changes can be made to existing ones by selecting the buttons “Copy”, “Change” or “New”.
+
+Agreements can also be imported via Excel Import/Export. The fields descriptions for this are in the Excel file which is generated during the export operation using the Export/Import button at the bottom right of the screen.
+
+#### General tab <a name="general"/>
+
+**Name***
+
+This field is mandatory and is the name displayed in lists of supplier agreements. It does not need to be unique (the unique key for the agreement is an External ID). There may be several agreements with the same supplier, but they have different External IDs. If it starts with PID, it is set automatically by Visma Proceedo. Otherwise, it is created via integration from TendSign. Visma TendSign offers administrators an option for specifying a trade name for a supplier in the agreement. If a trade name is used in Visma TendSign, this name will be mapped to the “Supplier name” field in Visma Proceedo.
+
+
+**Hide for users** Y/N
+
+The supplier agreement linked to users can be made invisible by marking the agreement as hidden. The supplier agreement is then highlighted in black under Administration -> Supplier agreements. This can be used, for instance, if you have received information about the supplier becoming insolvent and do not want the users to make new requisitions with this supplier.
+
+**Other description** (i)
+
+This is information text for the end user/orderer.
+
+**Search words** (i)
+
+Up to 3500 characters can be used for each search term and they can be input with or without spaces. This is used to find supplier agreements.
+
+**Branch**
+
+**UNSPCS version**
+
+**VAT rate**
+
+Default VAT rate used when creating new items.
+
+The VAT rate can also be set individually by item and will then override the VAT rate specified in the supplier agreement. This VAT rate is used when creating invoices on the Visma Proceedo Supplier Portal. The VAT rate can, if necessary, be amended by the supplier when generating invoices on the Supplier Portal.
+
+
+
+
+##### Supplier Basic information 
+
+**Organisation number**
+
+Supplier organisation number.
+
+
+**VAT number**
+
+Supplier’s VAT number.
+
+**Country**
+
+This is only for show as the information does not control anything in Visma Proceedo. **VERIFY IF THIS IS TRUE? NOT USED IN VAT AUTOMATION?**
+
+
+##### Supplier address
+
+
+##### Helpdesk contact
+
+**Phone**, **e-mail** and **fax** is possible to specify and it they are presented to the users in order for them to directly contact the supplier
+
+
+##### Supplier contact 
+
+**Name**, **phone**, **mobile** and **e-mail** is available to specify and they are presented to users in case of more specific questions arise or helpdesk contact details is not available. 
+
+
+##### Order information
+
+
+##### Order processing 
+
+**Allow requisition approval bypass** Y/N
+
+You use this to specify whether the end user can, under the contract, send an order to a supplier without the requisition being approved (approved beforehand). You need to have a role linked to access attribute 5776.
+
+**Warn on repeat purchase** Y/N
+
+If this option is marked, the end user will receive a warning confirming that he/she is ordering an item where there are already requisitions for the same item (for the same user), but their delivery has not been confirmed. The warning indicates the relevant items. You can choose to ignore the warning and continue with the requisition.
+
+**Automatic delivery confirmation** Y/N
+
+This is used if all order deliveries from the supplier are to be confirmed automatically. You can also select automatic delivery confirmation by item.
+
+
+**Minimum order value**
+
+When a requisition is made, if the total order value for the supplier is less than this value a pop-up warning is displayed (fixed text - cannot be amended). The orderer decides whether to still create the requisition.
+
+**Comment to goods receiver** Do not show/ When required/ Should be assigned
+
+This specifies whether it is possible to add a comment with the delivery confirmation. This information is not sent to the supplier; it is only shown in Visma Proceedo.
+
+**Customer number** 
+
+This will show the agreement’s customer number for the supplier. This number is printed on the order to the supplier. If the company/organisation using Visma Proceedo has several customer numbers for the supplier, one customer number per organisation can be input under Administration -> Advanced -> Organisation. The details input under [“Org. settings”](https://github.com/cajsaahlinder/cajsatest/blob/master/en/online-help/buyer/orderways.md#orgsettings) override what features in the “Customer number” field.
+
+
+
+
+
+##### Sending of order
+
+
+
+##### External webshop <a name="externalshop"/>
+
+
+
+##### Order copy
+
+##### Order response
+
+**Expect order response** (i) Y/N
+
+This indicates that an order is awaiting confirmation from the supplier.
+The order’s status will be “Awaiting order response” if this option is ticked. Otherwise, it will be ”Not
+confirmed”.
+If there is no order response, the order can be approved manually. You can create a manual order
+response, but without making any amendments by selecting the “Order response” tab under
+Procurement -> Delivery confirmation.
+
+**Allow orderless response** Y/N
+
+An order response can be imported without the need for an underlying order. This allows a supplier to
+register an order response without an underlying order. Visma Proceedo generates an order based on
+the order response.
+
+**Auto-approve** None/All/All without changes
+
+All without changes means that if an order response matches an order, the order will be automatically
+approved. If the order response is approved it is ready for delivery confirmation. Its status will be “Not
+confirmed”. The order responses which differ from the order will need to be approved by the orderer.
+No feedback will be given to the supplier when the orderer has approved the order response.
+All means that the orderer needs to approve all the order responses, including those which match the
+order 100%.
+None means that Visma Proceedo approves all order responses, regardless of whether they update
+the order with amendments or not.
+
+##### Electronic invoices 
+
+
+
+##### Delivery notification 
+
+
+##### Attachments
+
+
+##### Transaction export 
+
+
+
+
+#### Agreement tab <a name="agreement"/>
+
+
+
+##### Agreement responsible
+
+
+##### Agreement validity
+
+
+##### Agreement categorization
+
+
+
+##### Competition
+
+
+
+##### Additional contact information 
+
+
+
+
+
+#### Order match tab <a name="ordermatch"/>
+
+**Responsible for deviances**
+
+The user specified here may receive invoices which could not be matched against orders. In this case,
+select the person responsible for deviances as the manager handling any non-conformity under the
+“Order match settings” tab (Administration -> Organisation).
+
+**Order match settings**
+
+These are the same settings displayed under the organisation settings. They apply to the whole
+organisation, but can be amended for the supplier agreement.
+
+The invoice supplier must be set up for the Order match flow so that invoices will be matched against
+orders according to the Order match settings. The Order match settings cannot be exported or
+imported.
+
+
+
+#### Org. settings tab <a name="orgsettings"/>
+
+
+
+#### Users and groups tab <a name="usersandgroups"/>
+
+
+
+#### Connect tab  <a name="connect"/>
+
+
+
+
+**Helpdesk telephone/fax/e-mail** (i) 
+
+This is used only as information for the end user/orderer.
+
+**Supplier contact/telephone/mobile phone/e-mail** (i)
+
+This is used only as information for the end user/orderer.
+
+
+
+**Admit ancestry** Y/N
+
+This parameter is only shown if the supplier agreement can be shared between different Visma Proceedo setups. The parameters for this are configured under the system supplier’s Customer data. (Advanced -> Customer data -> Advanced -> Procurement tab; “Inherit supp. agreements from BO sno” field.)
+
+
+
+
+**Master group**
+
+This is only displayed if the option indicating that Master groups are going to be used has been ticked (Administration –> Advanced –> Customer data; Procurement tab; ”Master groups” field). When an agreement is inherited between setups, it must be established who can edit the agreement. The field indicates the group whose administrator can edit the supplier agreement.
+
+
+**External ID** (i)
+
+This is a mandatory field set by Visma Proceedo when an agreement is generated. A setting in the setup can enable this to be configured manually (Administration -> Advanced -> Customer data; Procurement tab; “Use agreement external IDs” field). You only use a manual ID if you need to be able to import an agreement from another system.
+
+**Home page** (i)
+
+Link to supplier's website.
+
+
+
+**Environmental/Quality markup** (i)
+
+Only for information about the supplier to the end user/orderer.
+
+**Quality markup** (i)
+
+Only for information about the supplier to the end user/orderer.
+
+**Supplier ID in system**
+
+When exporting orders this ID is used to identify the supplier in the receiving system. This can be
+overridden by the ID which has been specified under Administration -> Advanced -> Organisation.
+
+
+
+
+Created by/Last changed by
+Information about who created the agreement and when it was last changed. Integration -
+if the supplier agreement is integrated with a market agreement, the following fields also appear under
+the tab:
+
+### Supplier tab (Supplier agreements)
+
+**Address writable for customer** Y/N
+If N is selected, most of these fields cannot be amended. It must be set to N in the case of an order
+integrated with a supplier. “Visiting address” is the only field which you can amend if N is selected.
+
+**Address ID/Address type**
+
+The ID and ID type (GLN, VAT, ORGNO, OVT etc) used to identify the supplier in integrated orders.
+
+**Name, Attention, Address/Box, Visiting address (i), City, Post code**
+
+Details about the supplier.
+
+
+**Market supplier**
+
+By selecting this field you can link the supplier agreement to a market supplier. In order to become a
+market supplier, the supplier must be invited to register. Suppliers with several agreements and/or customers then have a single login to the Visma Proceedo Supplier Portal for generating invoices,
+importing catalogues etc. to all their customers.
+
+Market suppliers are invited under Administration -> Advanced -> Market supplier. If you click the
+“View card” button, the market supplier’s details are displayed.
+Numerous supplier agreements can be linked to the same market supplier. When you have selected
+the market supplier, the following question will be displayed under the tab giving you the option to
+copy the address which is specified in the market agreement so that it is then noted in your supplier
+agreement.
+
+**Allow competition** Y/N
+
+This determines whether the supplier is able to participate in procurement processes.
+
+**Procurement resp. e-mail**
+
+E-mail address of the person at the supplier responsible for messages about procurement processes.
+
+**Allows cross dock addresses** Y/N
+
+If cross docking is possible, this determines whether the delivery is to be sent via a cross docking address. The cross docking address is specified under Administration -> Addresses for each final address.
+
+### Order tab (Supplier agreements)
+
+Order integration handled by Proceedo
+This is selected for integrated orders, in which case most settings are administered by Visma
+Commerce.
+
+**Order address*** 
+
+E-mail address to which the order is to be sent.
+
+**Order format**
+
+The format in which the order is sent to the supplier.
+
+The organisation’s default format (e-mail) – specified as an organisation parameter:
+* Default system order HTML for email and fax
+* Standard order EDIFACT D96A (BASDAT) ESAP 6 v2.7
+Additional formats may be available if specified in the setup.
+
+**Way of ordering**
+
+You use this to specify how the order is to be sent to the supplier.
+* Email (in body)
+* Email (as attachment)
+
+**Payload pattern** -
+
+This is configured, if required, by the system supplier during order integration.
+
+
+**Delivery date** Is not shown/When needed/Should be assigned
+
+Use these settings if you require a delivery date on the order to specify the rules during order registration. Depending on which options are marked, the requisition screen will be adapted to accommodate a delivery date field.
+
+**Goods mark**
+
+Use these settings if you require a goods mark on the order to specify the rules during order registration. Depending on which options are marked, this specifies whether a goods mark will be used or not. There is space for specifying a goods mark under the “Comments” field.
+
+**Structured comment**
+
+This option allows you to indicate additional information to the supplier during the order process by creating headings or queries which the orderer must provide information for. The information is then input by the end user in the dialogue under “Information to supplier” during order registration.
+
+See also Chapter 42 for a description of how this field is used.
+
+**Supplier comment** Should be displayed/Is not shown
+
+You use this to specify whether the “Information to supplier” field is displayed on the order sent to the supplier. If an integrated order is being sent to the supplier, it is important to ensure that the supplier has the option to receive the comment.
+
+**Way of delivery list**
+
+You use this to specify which list of ways of delivery will be displayed when registering a requisition.
+
+The list is defined under Administration -> Advanced -> Way of delivery. This is only used for medication requisitions.
+
+
+**Filename pattern**
+
+This is configured, if required, by the system supplier during order integration.
+
+**Order ack response time**
+
+This is only completed if an e-mail address is used as the order address and the order format includes a link that enables the supplier to manually confirm that the order has been received.
+
+**Selectable in search filter** Y/N
+
+This determines whether the supplier is included in the drop-down menu under Procure -> Create requisition -> Items and Services -> Supplier.
+
+
+
+**Allow temporary addresses** Y/N
+
+You can use this function if the supplier can accept delivery addresses that are not included in the customer's regular address register. In order to be able to specify a temporary address when creating a requisition, you must have access attribute 5230.
+
+
+
+
+
+
+
+
+Fields 1-4 (i)
+
+There are four free text fields available for you to mention any additional information about the agreements. This information is displayed when an agreement is listed while requisitions are being created, and it can also be used in reports. The information which should be input in the fields is specified under Administration -> Advanced -> Customer data -> Procurement tab; “Heading Fields 1-4” field.
+
+
+
+
+
+### Items tab (Supplier agreements)
+
+The items/services to be provided under the agreement must be set up under the “Items” tab. In order to make the “Items” tab visible, the supplier must first be saved. The maximum number of items that can be processed directly in Visma Proceedo is 1,000. Items can be imported via an Excel template using the “Export/Import” button.
+
+
+**Marketplace supplier Market agreement**
+
+If the supplier is a market supplier, you can create a market agreement for the supplier under Administration -> Advanced -> Market agreement. This field specifies the market agreement which applies to the supplier agreement.
+
+The market agreement can be amended using the “Configure” button or via administration of the market agreement (Administration -> Advanced -> Market agreement).
+
+One market agreement is always linked to one supplier agreement (not to several). See section 9.3 for more about setting up/amending items.
+
+Agreement tab (Supplier agreements)
+
+**Agreement number** (i)
+
+This is the agreement number displayed as an agreement number under “Procurement”. It is not unique to the agreement in Visma Proceedo, but may be the company’s own agreement number. 
+
+**Agreement resp./telephone/e-mail** (i)
+
+If an e-mail address is specified for the agreement owner, an e-mail can be sent when the agreement is soon to expire. It is handled using the ”Send reminder” option.
+
+The comments which an end user can send via the supplier agreement are sent to this address.
+
+**Payment terms**
+
+The number of days used in the Visma Proceedo Supplier Portal to calculate the payment date when suppliers generate invoices on the Supplier Portal.
+
+**Delayed payment interest**
+
+This is only information for administrators.
+
+**Delivery time**
+
+This is only information for administrators.
+
+
+
+**Contract value per year/per/period/Contract responsible**
+
+This is only information for administrators.
+
+**Product category**
+
+This is only information for administrators.
+
+**Delivery terms**
+
+**Link to agreement**
+
+Address for the link to the agreement, which must be a URL. This link is displayed in agreement screens (information box).
+
+**Attach agreement**
+
+This allows you to attach an agreement to a file.
+
+**Agreement category** (i)
+
+This is used to find the agreement category to which the agreement belongs. Agreement categories are created via Administration -> Advanced- > Agreement category.
+
+**Agreement area** (i)
+
+Select a relevant agreement area, if there is one. Agreement areas are created via Administration -> Advanced -> Agreement category, then select an agreement category and “Change”.
+
+**Agreement validity from date**
+ 
+The start date of the agreement. All connections to groups and users can be prepared before this date without the agreement being visible to users. The “Active supplier agreement date” option determines
+whether the agreement date will control access for end users. If Y is selected for the “Active supplier
+agreement date” option under Administration -> Advanced -> Customer data; Procurement tab,
+the agreement will not be visible to the end user before this date.
+
+**Agreement validity to date**
+
+The end date of the agreement. Connections to groups and users can be kept without the users being
+able to create requisitions or view the agreement after this date. The “Active supplier agreement date”
+option determines whether the agreement date will control access for end users. If Y is selected for the
+“Active supplier agreement date” option under “Customer data”; “Procurement” tab, the agreement will
+not be visible to the end user after this date.
+
+**Extension possible to**
+
+This is used simply to help procurers so that they know when a new agreement must be signed. For example, an agreement can be signed for 3 years with the option to extend it by 2 years. The last possible date for the agreement is then specified here.
+
+**Original agreement end date**
+
+This is used to indicate the date that was the original agreement end date to clarify how long the agreement can be extended. For example, if the text only says that the agreement can be extended by 2 years, it is important to know from which date these 2 years apply. “From Date” and “To Date“ are simply the dates that determine whether an agreement is visible to end users.
+
+**Send reminder** Y/N
+
+You set this to “Yes” if you want reminders to be sent according to the settings under “Message notification (Customer data)” when a Supplier agreement expires. The setting that has been specified under “Message notification” is the default for all agreements and setting this parameter to N overrides this for the supplier agreement.
+
+**Reminder number of days**
+
+Number of days before the “To Date” when the reminder will be sent. This option overrides the two reminder settings in the setup.
+
+**Agreement extension details**
+
+Free text for providing information about a possible extension to the agreement.
+
+Texts tab (Supplier agreements)
+
+**Agreement information** (i)
+
+Information about the agreement that is shown to end users under “Procurement” on the supplier agreement’s information screen.
+
+**Internal information**
+
+This is only information for administrators.
+
+**User comments**
+
+When the end user sends a comment via Visma Proceedo for the supplier agreement (by inputting and sending a comment on the screen displayed above the agreement by pressing the i button), the comment is saved here and can be edited. If an e-mail address is specified in the field Administration
+-> Supplier agreement -> Agreement tab; “Agr. resp. e-mail” field, the comment will also be emailed to this address.
+
+The comments are logged with the time and date and are stored until an administrator removes them manually.
+
+EDI tab (Supplier agreements)
+These settings are used for all integrations (orders, invoices, master data etc.).
+
+**Supplier agr. no.**
+
+This specifies whether the supplier has more than one agreement for the same customer or whether the supplier requests this. It is included on the order if the format allows.
+
+**Supplier frame agr. no.**
+
+This specifies only whether several call-offs are made against the same framework agreement or whether the supplier requests this. It is included on the order if the format allows.
+
+**Envelope sender/qualifier**
+
+This overrides who is specified as the sender by default. (“Customer data”; “General parameters” tab; “Sender id in envelope”)
+
+Envelope sender/qualifier
+This overrides who is specified as the recipient on outgoing orders (envelope recipient) by default
+under Customer data. If you select Administration -> Advanced -> Customer data -Advanced ->
+General tab, the Org. no., DUNS number etc. used by default as envelope recipient appear at the
+bottom left of the screen.
+
+
+
+Real time export
+Under “Real time export” you can create rules for exporting files. See the description under Customer
+data, Chapter 39.
+The relevant settings are available under “Customer data”; “Other” tab - and under “Organisation”;
+“Procurement” tab.
+
+**Allow import of order copy** Y/N
+
+Order copy is used to mean an order which has not been registered in Visma Proceedo. This parameter enables the company to import purchase orders for the agreement which have been generated in a way other than via Visma Proceedo.
+
+
+
+**Receive electronic invoice** (i) Y/N
+
+This must be set to “Yes” so that web and e-invoices can be matched with an order. It is also used to grant the supplier the right to send invoices via the Visma Proceedo Supplier Portal.
+
+**Receive delivery notifications** (i) Y/N 
+
+This must be set to “Yes” if the supplier is required to send a delivery notification.
+
+The delivery notification means that the supplier will advise regarding what (items and quantity) will be delivered in a delivery notification message. This delivery notification suggests to the orderer the
+number to be confirmed in the delivery confirmation. 
+
+You can check a notification without prompting confirmation by opening the notification using the “Show confirmation” button.
+
+**Allow orderless del. notification** Y/N
+
+A delivery notification can be imported without the need for an underlying order. Visma Proceedo generates an order based on an incoming delivery notification if this parameter is enabled.
+
+
+### Exporting/importing supplier agreements via Excel <a name="export"/>
+
+You can administer supplier agreements using the import/export function in Excel. A template can be downloaded from Visma Proceedo.
+
+### Archiving supplier agreements <a name="archive"/>
+
+You can archive a supplier agreement. In this case, the agreement is saved in an archive and can still
+be searched for. You can copy a new supplier agreement from an archived agreement.
+
+Related topics:
+* [Items](https://github.com/cajsaahlinder/cajsatest/blob/master/en/online-help/buyer/items.md)
