@@ -11,3 +11,5 @@ table td { font-size:14px !important; text-align:left !important; }
 # Introduction
 
 ### Online help <a name="onlinehelp"/>
+
+Detta är en introduktion till ...
