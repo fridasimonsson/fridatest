@@ -8,12 +8,12 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Roller för kontaktpersoner
+# Contact roles
 
-Här lägger man till vilka roller för kontaktpersoner som ska finnas tillgängliga när avtal skapas eller ändras. 
+Roles for contact persons that will be available when contracts are created or changed are set up here.
 
-Roller skapas separat för:
-* Köpande organisation, där typ av roll kan vara Administratör eller Generell.
-* Leverantör, där typ av roll kan vara Generell.
+Roles are created separately for:
+* Buying Organisation, where type of role can be Administrator or General.
+* Supplier, where type of role can be General.
 
 
