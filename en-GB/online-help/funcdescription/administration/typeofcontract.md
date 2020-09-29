@@ -12,7 +12,6 @@ table td { font-size:14px !important; text-align:left !important; }
 
 Contract types that will be selectable when contracts are created or changed are set up here.
 
-
 Typ av avtal som kan väljas är följande:
 * Call-off agreement
 * Central contract
