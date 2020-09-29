@@ -8,8 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduktion till funktionerna i CA
+# Introduktion till funktionerna i Contract Administration
 
 ### Hjälp för varje funktion <a name="funcdescriptionhelp"/>
 
-Här presenteras hjälp för de olika functionerna i Contract Administration...
+Här presenteras hjälp för de olika funktionerna i Contract Administration...
