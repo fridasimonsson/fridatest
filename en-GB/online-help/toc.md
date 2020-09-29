@@ -1,0 +1,20 @@
+<style> 
+h1 { font-size:24px; } 
+h2 { font-size:22px; } 
+h3 { font-size:20px; } 
+h4 { font-size:18px; } 
+h5 { font-size:16px; }  
+table th { font-size:14px !important; text-align:left !important; }
+table td { font-size:14px !important; text-align:left !important; }
+</style>
+
+
+# Innehållsförteckning
+
+* [Introduktion](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md)
+	* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md#onlinehelp)
+		* [Introduktion till funktionerna i CA](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/funcdescriptionintro.md)
+			* [Typ av avtal](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/typeofcontract.md)
+			* [Roller för kontaktpersoner](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/contactroles.md)
+				
+

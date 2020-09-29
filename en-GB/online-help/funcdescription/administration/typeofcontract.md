@@ -21,4 +21,4 @@ Typ av avtal som kan väljas är följande:
 * Ramavtal
 * Samarbetsavtal
 
-![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/fridasimonsson/fridatest/blob/master/sv-SE/online-help/funcdescription/administration/typeofcontract1.jpg "Typ av avtal")
+![Philadelphia's Magic Gardens. This place was so cool!](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/typeofcontract1.jpg "Typ av avtal")
