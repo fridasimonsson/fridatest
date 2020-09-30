@@ -1,7 +1,5 @@
 # Instructions for handling content for Help Centre
 
-This is a change in the readme file made from my desktop
-
 
 Common rules
 
