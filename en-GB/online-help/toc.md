@@ -18,7 +18,7 @@ table td { font-size:14px !important; text-align:left !important; }
           * [Start page](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/startpage.md)
             * [Contract lists](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/contractlists.md)
             * [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)
-            * [Add contract](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/addcontract.md)
+            * [Add contract](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/addcontractonstartpage.md)
           * [Contract overview](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/contractoverview/contractoverview.md)
       		* [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)            
             * [Key details](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/contractoverview/keydetails.md)
