@@ -20,7 +20,7 @@ The following events may occur:
 * Contract closed
 * Contract re-activated
 
-The following changes to the contract’s details are registered, together with any version comments specified for the change:
+The following changes to contract details are registered, together with any version comments specified for the change:
 * Added
 * Updated
 * Removed

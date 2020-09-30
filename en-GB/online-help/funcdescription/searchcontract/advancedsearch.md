@@ -21,7 +21,7 @@ It is possible to use an advanced search function where the contracts can be fil
 * Start date - Date or date combinations
 * End date - Date or date combinations
 * Original end date - Date or date combinations
-* Avtalsvärde - Min- and Max-values
-* Kontaktperson - Role selection and Free text
+* Contract value - Min- and Max-values
+* Contact - Role selection and Free text
 
 A combination of search and filtering can also be used.
