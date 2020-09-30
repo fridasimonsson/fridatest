@@ -8,22 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Include closed contracts
+# Administration of Basic setup
 
-By default, the closed contracts are not displayed in the Contract list. You can choose to also include these contracts via a check box above the contract list.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+From the menu "Administration" you reach the function for basic setup regarding the use of Visma CA.
 
 

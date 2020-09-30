@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# The contract’s timeline
+# Contract timeline
 
 The contract is illustrated here as a time axis with start and end dates, original closing date, extension information and with a marking over where current date is in relation to the length of the contract period. If there are extensions specified, they are shown with green and white striped markings.
 

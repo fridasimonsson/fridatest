@@ -8,17 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Include closed contracts
+# Start page
 
-By default, the closed contracts are not displayed in the Contract list. You can choose to also include these contracts via a check box above the contract list.
-
-
-
-
-
-
-
-
+When logging in to Visma CA the start page is displayed with easy to access information about the contracts that are administrated in the system.
 
 
 

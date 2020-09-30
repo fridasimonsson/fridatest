@@ -8,8 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduktion till funktionerna i Contract Administration
+# Introduction to the functions in Visma CA
 
-### Hjälp för varje funktion <a name="funcdescriptionhelp"/>
+### Help for each function <a name="funcdescriptionhelp"/>
 
-Här presenteras hjälp för de olika funktionerna i Contract Administration...
+Here is help for the various functions in Contract Administration ...

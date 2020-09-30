@@ -8,8 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduktion
+# Introduction
 
-### Online hjälp <a name="onlinehelp"/>
+### Online help <a name="onlinehelp"/>
 
-Detta är en introduktion till ...
+This is an introduction to the Visma CA application...

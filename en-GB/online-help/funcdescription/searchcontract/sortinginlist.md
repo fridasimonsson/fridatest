@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Sorting in list
+# Sorting in contract list
 
 The list of contracts can be sorted on the following contract details via a separate sorting list:
 * Name - A-Z

@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Search contract 
+# Search (contract)
 
 Via the "Contracts" menu, you reach the function for searching for contracts, with a number of built-in functions. If you click on a contract in the contract list, the Contract overview page will be opened.
 

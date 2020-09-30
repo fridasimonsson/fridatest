@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# The contract’s contact persons
+# Contract contact persons
 
 Each contract in the list shows the contracts's contact persons together with the contact person's specified role. Currently this only applies to contact persons belonging to the Buying Organisation.
 

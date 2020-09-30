@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Include call off rights
+# Include call off rights contracts
 
 By default, the contracts that the logged in user's organisation can call off from are not displayed in the Contract list. You can choose to also include these contracts via a check box above the contract list. On the contracts with call off rights the label "Call off rights from" is displayed together with the name of the organisation that is administrating the contract.
 
