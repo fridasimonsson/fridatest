@@ -10,9 +10,9 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Contract lists
 
-On the start page of Visma CA contracts are grouped in different ways and displayed in lists. The contracts in the lists can be bookmarked as favorites by clicking on the star placed adjacent to each contract’s name. The Contract overview page is opened if you click on any of the contracts in the lists.
+On the start page of Visma CA contracts are grouped in different ways and displayed in lists. The contracts in the lists can be bookmarked as favorites by clicking on the star placed adjacent to each contractâ€™s name. The Contract overview page is opened if you click on any of the contracts in the lists.
 
-#### Lists displayed
+#### Lists displayed <a name="listsdisplayed"/>
 * New contracts
   * Lists the first ten contracts with Active status where contract start date is today or later, sorted by contract start date, oldest first.
 
