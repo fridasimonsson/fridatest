@@ -8,6 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
+
 <details>
   <summary>Collapsible section</summary>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula enim velit, ac maximus felis fermentum vitae. Suspendisse gravida in augue eget vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mattis ultricies tortor. Suspendisse ut dignissim libero. Mauris nec finibus diam, at cursus tortor. Pellentesque in pretium odio.
