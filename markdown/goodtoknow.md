@@ -18,6 +18,8 @@ table td { font-size:14px !important; text-align:left !important; }
 Ut et est quis ex laoreet mollis ac nec enim. Donec hendrerit lacus eget nisi cursus aliquet. Donec lacinia mauris urna, ac consequat arcu accumsan sit amet. Etiam in faucibus lectus. Aliquam ultrices ligula ligula, nec efficitur dui vulputate non. Quisque pulvinar feugiat sodales. Donec egestas nunc vel lobortis convallis.
 </details>
 
+>Note: These tricks don't show up when you "Preview changes", you have to actually commit and view in the GitHub webinterface to see it.
+
 ## List with handing indentation
 
 <dl>
