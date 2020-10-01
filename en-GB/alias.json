@@ -1,0 +1,20 @@
+{
+"aliasUrl": [
+	{
+	"name": "1001",
+	"link": "online-help/introduction.md",
+	},
+
+	{
+	"name": "1002",
+	"link": "online-help/funcdescription/startpage/contractlists.md",
+	},
+
+	{
+	"name": "1003",
+	"link": "online-help/funcdescription/startpage/contractlists.md#listsdisplayed",
+	}
+]
+
+
+}
