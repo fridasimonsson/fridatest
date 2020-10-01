@@ -8,6 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
+# Good to know about Markdown content
 
 <details>
   <summary>Collapsible section</summary>
