@@ -13,5 +13,5 @@ table td { font-size:14px !important; text-align:left !important; }
 ### Online hjälp <a name="onlinehelp"></h3> 
 
 <p spaces-before="0">
-  Detta är en introduktion till Visma CA...
+  Detta är en introduktion till Visma Avtalsadministration...
 </p>
