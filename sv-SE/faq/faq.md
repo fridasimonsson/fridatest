@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# FAQ
+# Vanliga frågor
 
 ### Frequently asked questions <a name="faq"></h3>
 
