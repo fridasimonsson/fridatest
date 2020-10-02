@@ -10,7 +10,7 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Introduction
 
-### Online help <a name="onlinehelp"></h3> 
+### Online help <a name="onlinehelp"></h3>
 
 <p spaces-before="0">
   This is an introduction to the Visma CA application...

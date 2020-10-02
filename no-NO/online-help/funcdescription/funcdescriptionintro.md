@@ -10,7 +10,7 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Introduction to the functions in Visma CA
 
-### Help for each function <a name="funcdescriptionhelp"></h3> 
+### Help for each function <a name="funcdescriptionhelp"></h3>
 
 <p spaces-before="0">
   Here is help for the various functions in Contract Administration ...
