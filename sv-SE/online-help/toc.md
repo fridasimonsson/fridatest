@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Table of Contents
+# Innehållsförteckning
 
 * [Introduction](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md)
     * [Online help](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md#onlinehelp)
