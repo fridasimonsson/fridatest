@@ -12,7 +12,7 @@ table td { font-size:14px !important; text-align:left !important; }
 
 On the start page of Visma CA contracts are grouped in different ways and displayed in lists. The contracts in the lists can be bookmarked as favorites by clicking on the star placed adjacent to each contract’s name. The Contract overview page is opened if you click on any of the contracts in the lists.
 
-#### Lists displayed <a name="listsdisplayed"></h4> 
+#### Lists displayed <a name="listsdisplayed"></h4>
 
 <ul>
   <li>
