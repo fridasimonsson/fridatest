@@ -8,19 +8,18 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-
 # Table of Contents
 
 * [Introduction](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md)
-	* [Online help](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md#onlinehelp)
-		* [Introduction to the functions in Visma CA](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/funcdescriptionintro.md)
+    * [Online help](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/introduction.md#onlinehelp)
+        * [Introduction to the functions in Visma CA](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/funcdescriptionintro.md)
           * [Menu](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/menu/menuoptions.md)
           * [Start page](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/startpage.md)
             * [Contract lists](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/contractlists.md)
             * [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)
             * [Add contract](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/startpage/addcontractonstartpage.md)
           * [Contract overview](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/contractoverview/contractoverview.md)
-      		* [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)            
+            * [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)
             * [Key details](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/contractoverview/keydetails.md)
             * [Contract status](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/contractstatus.md)
             * [Contract timeline](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/contractoverview/contracttimeline.md)
@@ -38,11 +37,11 @@ table td { font-size:14px !important; text-align:left !important; }
              * [Contract status](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/contractstatus.md)
              * [Contract contact persons](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/searchcontract/contractpersons.md)
              * [Sorting in contract list](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/searchcontract/sortinginlist.md)
-             * [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)            
+             * [Favorite marking](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/common/favoritemarking.md)
           * [Add contract](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/addcontract/addcontract.md)
           * [Import contract](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/importcontracts/importcontracts.md)
           * [Administration of Basic setup](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/administration.md)
-        	 * [Contract types](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/typeofcontract.md)
+             * [Contract types](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/typeofcontract.md)
              * [Contact roles](https://github.com/fridasimonsson/fridatest/blob/master/en-GB/online-help/funcdescription/administration/contactroles.md)
 				
 
