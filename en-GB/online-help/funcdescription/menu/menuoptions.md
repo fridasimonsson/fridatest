@@ -17,7 +17,7 @@ The menu is at the top of the browser window throughout Visma CA and consists of
   * Visma Home, navigates to the start page in Visma.net
   * Contract Administration, navigates to the start page in Visma CA
   * Visma Community, navigates to the start page in Visma Community
-  
+
 * Start page, navigates to the start page in Visma CA
 
 * Contracts
@@ -29,7 +29,7 @@ The menu is at the top of the browser window throughout Visma CA and consists of
   * Basic settings, where settings for the Visma CA application can be changed
 
 * Logged in user
-  * My details, navigates to settings for logged in user, where the user’s details can be changed (t.ex. språk)
+  * My details, navigates to settings for logged in user, where the userâ€™s details can be changed (t.ex. sprÃ¥k)
   * Signed out, logging out the user from Visma CA
 
 
