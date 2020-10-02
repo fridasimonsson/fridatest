@@ -10,7 +10,7 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Introduktion till funktionerna i CA
 
-### Hjälp för varje funktion <a name="funcdescriptionhelp"></h3> 
+### Hjälp för varje funktion <a name="funcdescriptionhelp"></h3>
 
 <p spaces-before="0">
   Här visas hjälp för de olika funktionerna i Contract Administration ...
