@@ -8,10 +8,22 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Include closed contracts
 
-### Online help <a name="onlinehelp"></h3> 
+By default, the closed contracts are not displayed in the Contract list. You can choose to also include these contracts via a check box above the contract list.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

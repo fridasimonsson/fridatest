@@ -8,10 +8,24 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Export contracts to Excel
 
-### Online help <a name="onlinehelp"></h3> 
+The contract result list can be exported to an Excel file via the link "Export to Excel" above the list. Contracts that have the contract status Draft are not exported.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

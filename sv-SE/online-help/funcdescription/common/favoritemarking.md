@@ -8,10 +8,15 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Favorite marking
 
-### Online help <a name="onlinehelp"></h3> 
+A contract can be bookmarked as favorite by clicking on the star next to the contract name. Bookmarked contracts are displayed in a separate list on the Visma CA start page.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+
+
+
+
+
+
+
+

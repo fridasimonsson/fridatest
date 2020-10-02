@@ -8,10 +8,10 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Basic overview
 
-### Online help <a name="onlinehelp"></h3> 
+On page Overview the following is displayed:
+* Basic information: The most basic basic information about the contract, such as name, reference number, type of contract, etc.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+* Contract period: Information about contract period and extensions.
+

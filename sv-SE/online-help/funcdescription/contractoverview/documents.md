@@ -8,10 +8,11 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Documents
 
-### Online help <a name="onlinehelp"></h3> 
+On page Documents the following is displayed:
+* Documents: The files that have been uploaded to the contract.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+* Links: The links that have been specified on the contract.
+
+

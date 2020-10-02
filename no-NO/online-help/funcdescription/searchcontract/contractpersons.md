@@ -8,10 +8,25 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Contract contact persons
 
-### Online help <a name="onlinehelp"></h3> 
+Each contract in the list shows the contract's contact persons together with the contact person's specified role. Currently this only applies to contact persons belonging to the Buying Organisation.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

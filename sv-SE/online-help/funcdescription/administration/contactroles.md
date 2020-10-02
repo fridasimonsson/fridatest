@@ -8,10 +8,12 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Contact roles
 
-### Online help <a name="onlinehelp"></h3> 
+Roles for contact persons that will be available when contracts are created or changed are set up here.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+Roles are created separately for:
+* Buying Organisation, where type of role can be Administrator or General.
+* Supplier, where type of role can be General.
+
+

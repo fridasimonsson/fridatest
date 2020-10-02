@@ -8,10 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Administration of Basic setup
 
-### Online help <a name="onlinehelp"></h3> 
+From the menu "Administration" you reach the function for basic setup regarding the use of Visma CA.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+

@@ -8,10 +8,14 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Introduction
+# Start page
 
-### Online help <a name="onlinehelp"></h3> 
+When logging in to Visma CA the start page is displayed with easy to access information about the contracts that are administrated in the system.
 
-<p spaces-before="0">
-  This is an introduction to the Visma CA application...
-</p>
+
+
+
+
+
+
+
