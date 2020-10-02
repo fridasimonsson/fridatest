@@ -10,31 +10,49 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # FAQ
 
-### Frequently asked questions <a name="faq"/>
+### Frequently asked questions <a name="faq"></h3> 
 
-Frequently asked questions are listed here...
+<p spaces-before="0">
+  Frequently asked questions are listed here...
+</p>
+
+<p spaces-before="0">
+  
 
 <details>
   <summary>Question 1</summary>
   Answer 1
 </details>
 
-<details>
+</p>
+
+<p spaces-before="0">
+  <details>
   <summary>Question 2</summary>
   Answer 2
 </details>
 
-<details>
+</p>
+
+<p spaces-before="0">
+  <details>
   <summary>Question 3</summary>
   Answer 3
 </details>
 
-<details>
+</p>
+
+<p spaces-before="0">
+  <details>
   <summary>Question 4</summary>
   Answer 4
 </details>
 
-<details>
+</p>
+
+<p spaces-before="0">
+  <details>
   <summary>Question 5</summary>
   Answer 5
 </details>
+</p>
