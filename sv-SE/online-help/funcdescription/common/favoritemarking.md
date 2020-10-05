@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Favorite marking
+# Favoritmarkering
 
-A contract can be bookmarked as favorite by clicking on the star next to the contract name. Bookmarked contracts are displayed in a separate list on the Visma CA start page.
+Avtal kan favoritmarkeras genom att klicka på stjärnan framför avtalets namn. Favoritmarkerade avtal visas i en egen lista på startsidan i Visma CA.
 
 
 
