@@ -10,10 +10,10 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Vanliga frågor
 
-### Frequently asked questions <a name="faq"></h3>
+### Vanliga frågor <a name="faq"></h3>
 
 <p spaces-before="0">
-  Frequently asked questions are listed here...
+  Vanliga frågor listas här...
 </p>
 
 <p spaces-before="0">
