@@ -8,11 +8,11 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Documents
+# Dokument
 
-On page Documents the following is displayed:
-* Documents: The files that have been uploaded to the contract.
+På sidan Dokument visas följande:
+* Dokument: De filer som laddats upp till avtalet.
 
-* Links: The links that have been specified on the contract.
+* Länkar: De länkar som angivits på avtalet.
 
 
