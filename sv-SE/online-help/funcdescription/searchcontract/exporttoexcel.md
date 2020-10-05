@@ -8,7 +8,7 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Exportera till Excel
+# Exportera avtal till Excel
 
 Avtalsresultatet kan exporteras till en Excel-fil via länken “Exportera till Excel” ovanför listan. Dock exporteras inte de avtal som har avtalsstatus Utkast.
 
