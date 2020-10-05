@@ -8,16 +8,16 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Contract types
+# Typ av avtal
 
-Contract types that will be selectable when contracts are created or changed are set up here.
+Här väljer man vilka avtalstyper som ska vara valbara när avtal skapas eller ändras.
 
-The following contract types can be selected:
-* Call-off agreement
-* Central contract
-* Contract
-* Cooperation agreement
-* Direct purchase contract
-* Framework Agreement
-* LOV agreement
+Följande avtalstyper kan väljas:
+* Avropsavtal
+* Centralt avtal
+* Avtal
+* Samarbetsavtal
+* Direktköpsavtal
+* Ramavtal
+* LOV-avtal
 

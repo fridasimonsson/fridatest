@@ -8,8 +8,8 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Administration of Basic setup
+# Administration av grundläggande inställningar
 
-From the menu "Administration" you reach the function for basic setup regarding the use of Visma CA.
+Vi menyn “Administration” når man funktionen för att grundläggande inställningar för användning av Visma CA.
 
 

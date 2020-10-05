@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Contract timeline
+# Avtalets tidslinje
 
-The contract is illustrated here as a time axis with start and end dates, original closing date, extension information and with a marking over where current date is in relation to the length of the contract period. If there are extensions specified, they are shown with green and white striped markings.
+Avtalet illustreras här som en tidsaxel med start- och slutdatum, ursprungligt slutdatum, förlängningsinformation samt med en markering över var aktuellt datum befinner sig i relation till avtalets löptid. Om förlängningar finns angivna visas de med grön- och vitrandig markering.
 
 
 

@@ -10,49 +10,49 @@ table td { font-size:14px !important; text-align:left !important; }
 
 # Vanliga frågor
 
-### Frequently asked questions <a name="faq"></h3>
+### Vanliga frågor <a name="faq"></h3>
 
 <p spaces-before="0">
-  Frequently asked questions are listed here...
+  Vanliga frågor listas här...
 </p>
 
 <p spaces-before="0">
   
 
 <details>
-  <summary>Question 1</summary>
-  Answer 1
+  <summary>Fråga 1</summary>
+  Svar 1
 </details>
 
 </p>
 
 <p spaces-before="0">
   <details>
-  <summary>Question 2</summary>
-  Answer 2
+  <summary>Fråga 2</summary>
+  Svar 2
 </details>
 
 </p>
 
 <p spaces-before="0">
   <details>
-  <summary>Question 3</summary>
-  Answer 3
+  <summary>Fråga 3</summary>
+  Svar 3
 </details>
 
 </p>
 
 <p spaces-before="0">
   <details>
-  <summary>Question 4</summary>
-  Answer 4
+  <summary>Fråga 4</summary>
+  Svar 4
 </details>
 
 </p>
 
 <p spaces-before="0">
   <details>
-  <summary>Question 5</summary>
-  Answer 5
+  <summary>Fråga 5</summary>
+  Svar 5
 </details>
 </p>

@@ -8,13 +8,13 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Business parties
+# Avtalsparter
 
-On page Business parties the following is displayed:
-* Buying Organisation: The contract's buying organisation, where specific contact persons can be added, changed and removed.
+På sidan Avtalsparter visas följande:
+* Köpande organisation: Avtalets köpande organisation, där specifika kontaktpersoner kan läggas till, ändras och tas bort.
 
-* Supplier: The contract's supplier, where specific contact persons can be added, changed and removed.
+* Leverantör: Avtalets leverantör, där specifika kontaktpersoner kan läggas till, ändras och tas bort.
 
-* Call off: Where the organisations that will have call off rights to the contract can be added, changed and removed.
+* Avropsberättigad organisation: Där de organisationer som ska kunna avropa från avtalet kan läggas till, ändras och tas bort.
 
 

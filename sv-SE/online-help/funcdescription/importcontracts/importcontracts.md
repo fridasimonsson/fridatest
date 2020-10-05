@@ -8,14 +8,14 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Import contracts
+# Importera avtal
 
-From the menu "Contracts" you reach the function for importing Contracts. One or several contracts can be imported manually from an Excel file, using a guide in several steps. A template "Excel template for contracts import" is available to download where you can enter the contracts you want to import. You then follow the guide's steps to upload the file and import the contracts:
+Vi menyn “Avtal” når man funktionen för att importera avtal. Ett eller flera avtal kan där importeras manuellt från en Excel-fil, med hjälp av en guide i flera steg. En mall “Excelmall för avtalsimport” finns att ladda ner där man kan lägga in de avtal som man vill importera. Man följer därefter guidens steg för att ladda upp filen och importera avtalen:
 
-1. Upload file, the file is uploaded and validated.
-2. Map fields, any fields in the file that could not be mapped automatically are mapped here manually.
-3. Preview contracts, the contracts in the file are validated and reviewed and any errors are presented. The import can be cancelled to correct errors (and then perform a new import).
-4. Summary, a summary of the number of imported contracts and suppliers is presented. Via a link, you can go on to the Search contract page where the imported contracts have been filtered out and displayed directly in the contract list.
+1. Ladda upp fil, filen laddas upp och valideras.
+2. Mappa fält, eventuella fält i filen som inte kunde mappas automatiskt mappas här manuellt.
+3. Granska avtal, avtalen i filen valideras och granskas och eventuella felaktigheter presenteras. Importen kan avbrytas för korrigering av felaktigheter (och därefter kan en ny import genomföras).
+4. Sammanfattning, en sammanfattning av antal importerade avtal och leverantörer presenteras. Vi en länk kan man gå vidare till sidan för Sök avtal där de importerade avtalen har filtrerats ut och visas direkt i avtalslistan.
 
 
 

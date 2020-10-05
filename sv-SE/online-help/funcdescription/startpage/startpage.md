@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Start page
+# Startsida
 
-When logging in to Visma CA the start page is displayed with easy to access information about the contracts that are administrated in the system.
+Vid inloggning i Visma CA visas Startsidan med snabb tillgång till information om de avtal som administreras i systemet.
 
 
 

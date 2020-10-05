@@ -8,70 +8,70 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Contract lists
+# Listningar av avtal
 
-On the start page of Visma CA contracts are grouped in different ways and displayed in lists. The contracts in the lists can be bookmarked as favorites by clicking on the star placed adjacent to each contract’s name. The Contract overview page is opened if you click on any of the contracts in the lists.
+På startsidan i Visma CA visas avtal grupperade på olika sätt. Avtalen i listorna kan favoritmarkeras genom att klicka på stjärnan intill varje avtalsnamn. Klickar man på ett avtal i någon av listorna kommer man till Avtalets översiktssida.
 
-#### Lists displayed <a name="listsdisplayed"></h4>
+#### Listor som visas <a name="listsdisplayed"></h4>
 
 <ul>
   <li>
     <p spaces-before="0">
-      New contracts
+      Nya avtal
     </p>
     <ul>
       <li>
-        Lists the first ten contracts with Active status where contract start date is today or later, sorted by contract start date, oldest first.
+        Listan visar de första tio avtalen som har status Aktiv där avtalets startdatum är idag eller senare, sorterad på avtalets startdatum med det äldsta avtalet överst.
       </li>
     </ul>
   </li>
   <li>
     <p spaces-before="0">
-      New contracts we can call off
+      Nya avtal vi kan avropa från
     </p>
     <ul>
       <li>
-        Lists the ten last updated contracts where current user's organisation has been added as call off organisation, sorted by last updated date, the latest updated at the top of the list. The list will not be shown on the start page if the organisation does not have any contracts to call off from.
+        Listan visar de tio senast ändrade avtalen där inloggad användares organisation har blivit tillagd som avropsberättigad, sorterad på senast ändrat datum med det senast ändrade avtalet överst. Om organisationen inte har några avtal att avropa från visas inte listan på startsidan.
       </li>
     </ul>
   </li>
   <li>
     <p spaces-before="0">
-      Drafts
+      Utkast
     </p>
     <ul>
       <li>
-        Lists all contracts with Draft status, sorted in alphabetical order by contract name.
+        Listan visar alla avtal som har status Utkast, sorterade alfabetiskt på avtalets namn.
       </li>
     </ul>
   </li>
   <li>
     <p spaces-before="0">
-      Bookmarked contracts
+      Favoritmarkerade avtal
     </p>
     <ul>
       <li>
-        Lists all contracts that have been bookmarked, sorted in alphabetical order by contract name.
+        Listan visar alla avtal som blivit favoritmarkerade, sorterade alfabetiskt på avtalets namn.
       </li>
     </ul>
   </li>
   <li>
     <p spaces-before="0">
-      Soon expiring
+      Upphör snart
     </p>
     <ul>
       <li>
-        Lists the ten contracts with Active status that are the closest to ending where contract end date is today or later, sorted by contract end date with the one ending earliest at the top.
+        Listan visar de tio avtalen som har status Aktiv som är närmast i tid att sluta gälla där avtalets slutdatum är idag eller senare, sorterad på avtalets slutdatum med det avtal som slutar att gälla först överst.
       </li>
     </ul>
   </li>
   <li>
     <p spaces-before="0">
-      Just expired
+      Just upphört
     </p>
     <ul>
       <li>
-        Lists the ten contracts that have just ended, sorted by end date with latest expired contract at the top.
+        Listan visar de tio senaste avtalen som just slutat gälla, sorterad på avtalets slutdatum med det avtal som slutade gälla mest nyligen överst.
       </li>
     </ul>
   </li>

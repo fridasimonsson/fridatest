@@ -8,13 +8,13 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Edit and delete contract
+# Ändra och ta bort avtalet
 
-In the upper section on the contract there is an Edit-button. When it is clicked the contract is displayed in edit mode and the contract details can be edited and saved. Editing can be performed on pages Overview, Business parties and Documents. All changes of contract details are saved and version managed and it is possible to add own version comments every time a change is saved. This is done via a link that appears in the upper section of the contract when you are in the edit mode.
+I den övre sektionen på avtalet finns en Ändra-knapp. När man klickar på den visas avtalet i ändringsläge och avtalets uppgifter kan ändras och sparas. Ändringar kan göras på sidorna Översikt, Avtalsparter och Dokument. Alla ändringar av avtalets uppgifter lagras och versionshanteras och det går att lägga till egna versionskommentarer vid varje sparad ändring. Detta görs via en länk som visas i avtalets övre sektion när man är i ändringsläget.
 
-When you are in the edit mode, it is also possible to delete the contract completely using a button at the bottom of the page. Then the contract is deleted from Visma CA.
+När man är i ändringsläget går det också att ta bort avtalet helt via en knapp längst ner på sidan. Då raderas avtalet från Visma CA.
 
-If it is a contract where the organisation of the logged in user only has the right to call off, the contract cannot be changed or deleted.
+Om det är ett avtal som den inloggade användarens organisation bara har avropsrätt till går detta avtal inte att ändra eller ta bort.
 
 
 

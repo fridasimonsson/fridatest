@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Export contracts to Excel
+# Exportera till Excel
 
-The contract result list can be exported to an Excel file via the link "Export to Excel" above the list. Contracts that have the contract status Draft are not exported.
+Avtalsresultatet kan exporteras till en Excel-fil via länken “Exportera till Excel” ovanför listan. Dock exporteras inte de avtal som har avtalsstatus Utkast.
 
 
 
