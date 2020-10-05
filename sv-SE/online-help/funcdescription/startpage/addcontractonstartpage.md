@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Add contract
+# Lägg till avtal
 
-On the start page there is also a button to add a new contract. It leads to a new page where you first have to select a supplier. 
+På startsidan finns också en knapp för att lägga till ett nytt avtal. Denna leder till en ny sida där man först får göra ett val av leverantör. 
 
 
 

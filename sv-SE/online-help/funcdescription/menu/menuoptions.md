@@ -8,29 +8,29 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Menu
+# Meny
 
-The menu is at the top of the browser window throughout Visma CA and consists of the following options.
+Menyn finns i överkanten på webbläsarfönstret genomgående i Visma CA och består av nedanstående alternativ.
 
-#### Menu options
+#### Menyalternativ
 * Visma CA
-  * Visma Home, navigates to the start page in Visma.net
-  * Contract Administration, navigates to the start page in Visma CA
-  * Visma Community, navigates to the start page in Visma Community
+  * Visma Home, navigerar till startsidan i Visma.net
+  * Contract Administration, navigerar till startsidan i Visma CA
+  * Visma Community, navigerar till startsidan i Visma Community
 
-* Start page, navigates to the start page in Visma CA
+* Startsida, navigerar till startsidan i Visma CA
 
-* Contracts
-  * Search, provides search function to be able to quickly search for specific
-  * Add contract, provides function to be able to quickly add a new contract
-  * Import contracts, provides function to be able to manually import contracts from Excel-file
+* Avtal
+  * Sök, erbjuder sökfunktion för att snabbt kunna söka efter specifika avtal
+  * Lägg till avtal, erbjuder funktion för att snabbt och enkelt kunna skapa ett nytt avtal
+  * Importera avtal, erbjuder funktion för att manuellt kunna importera avtal från Excel-fil
 
 * Administration
-  * Basic settings, where settings for the Visma CA application can be changed
+  * Grundläggande inställningar, där inställningar för användande av applikationen Visma CA kan ändras
 
-* Logged in user
-  * My details, navigates to settings for logged in user, where the user’s details can be changed (t.ex. språk)
-  * Signed out, logging out the user from Visma CA
+* Inloggad användare
+  * Mina uppgifter, navigerar till inställningar för inloggad användare, där användarens uppgifter kan ändras (t.ex. språk)
+  * Logga ut, loggar ut användaren från Visma CA
 
 
 

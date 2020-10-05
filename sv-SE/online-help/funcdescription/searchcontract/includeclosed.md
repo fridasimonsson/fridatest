@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Include closed contracts
+# Inkludera avslutade avtal
 
-By default, the closed contracts are not displayed in the Contract list. You can choose to also include these contracts via a check box above the contract list.
+Som standard visas inte de avtal som avslutats i listan. Det går dock att välja att inkludera även dessa avtal via en kryssruta ovanför avtalslistan.
 
 
 

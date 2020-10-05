@@ -8,19 +8,19 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# History
+# Händelser
 
-The History page shows all the events a contract has been involved in.
+På sidan Händelser visas all de händelser ett avtal har varit med om.
 
-The following events may occur:
-* Draft created
-* Contract created
-* Updated (Contract updated)
-* Contract imported
-* Contract closed
-* Contract re-activated
+Följande händelser kan förekomma:
+* Utkast skapat
+* Avtal skapat
+* Uppdaterad (Avtal uppdaterat)
+* Avtal importerat
+* Avtal avslutat
+* Avtal återaktiverat
 
-The following changes to contract details are registered, together with any version comments specified for the change:
-* Added
-* Updated
-* Removed
+Följande ändringar av avtalets uppgifter registreras, tillsammans med eventuell versionskommentar som angivits vid ändringen:
+* Tillagd
+* Uppdaterad
+* Borttagen

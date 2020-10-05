@@ -8,10 +8,10 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Basic overview
+# Översikt
 
-On page Overview the following is displayed:
-* Basic information: The most basic basic information about the contract, such as name, reference number, type of contract, etc.
+På sidan Översikt visas följande:
+* Basinformation: De mest basala grunduppgifterna om avtalet, såsom namn, referensnummer, avtalstyp etc.
 
-* Contract period: Information about contract period and extensions.
+* Avtalsperiod: Information och avtalstid och förlängningar.
 

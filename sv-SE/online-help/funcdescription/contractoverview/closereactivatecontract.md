@@ -8,11 +8,11 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Close and re-activate contract
+# Avsluta/Återaktivera avtal
 
-For contracts with the status Active, it is possible to actively close the contract via the button "Close contract" at the bottom of the page. The contract is then closed after the contract period has passed. A comment on why the contract is closed can be provided.
+För avtal som har status Aktiv går det att aktivt avsluta avtalet via knappen “Avsluta avtalet” längst ner på sidan. Då avslutas avtalet efter att avtalstiden passerats. En kommentar till varför man väljer att avsluta avtalet kan lämnas.
 
-For contracts with the status Closed, it is possible to reactivate the contract via the button "Re-activate contract" at the bottom of the page. A comment on why the contract is reactivated can be provided.
+För avtal som har status Avslutat går det att återaktivera avtalet via knappen “Återaktivera avtalet” längst ner på sidan. En kommentar till varför man väljer att återaktivera avtalet kan lämnas.
 
 
 
