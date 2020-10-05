@@ -8,19 +8,19 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Sorting in contract list
+# Sortering i listan
 
-The list of contracts can be sorted on the following contract details via a separate sorting list:
-* Name - A-Z
-* Name - Z-A
-* Reference number - A-Z
-* Reference number - Z-A
-* Start date - Newest first
-* Start date - Oldest first
-* End date - Newest first
-* End date - Oldest first
-* Supplier - A-Z
-* Supplier - Z-A
+Listan med avtal kan sorteras på följande avtalsinformation via en separat sorteringslista:
+* Namn - A-Ö
+* Namn - Ö-A
+* Referensnummer - A-Ö
+* Referensnummer - Ö-A
+* Startdatum - Senast överst
+* Startdatum - Äldst överst
+* Slutdatum - Senast överst
+* Slutdatum - Äldst överst
+* Leverantör - A-Ö
+* Leverantör - Ö-A
 
 
 
