@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Contract contact persons
+# Avtalets kontaktpersoner
 
-Each contract in the list shows the contract's contact persons together with the contact person's specified role. Currently this only applies to contact persons belonging to the Buying Organisation.
+På varje avtal i listan visas avtalets kontaktpersoner tillsammans med kontaktpersonens angivna roll. Detta gäller dock i nuläget endast för kontaktpersoner tillhörande Köpande organisation.
 
 
 
