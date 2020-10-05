@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Include call off rights contracts
+# Inkludera avtal med avropsrätt till
 
-By default, the contracts that the logged in user's organisation can call off from are not displayed in the Contract list. You can choose to also include these contracts via a check box above the contract list. On the contracts with call off rights the label "Call off rights from" is displayed together with the name of the organisation that is administrating the contract.
+Som standard visas inte de avtal som inloggad användares organisation har avropsrätt till i listan. Det går dock att välja att inkludera även dessa avtal via en kryssruta ovanför avtalslistan. På de avtal som organisationen har avropsrätt till visas i listan “Avropsberättigad från” med information om vilken organisation som administrerar avtalet.
 
 
 
