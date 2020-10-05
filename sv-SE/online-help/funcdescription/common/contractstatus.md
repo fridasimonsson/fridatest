@@ -9,26 +9,26 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Contract status
+# Avtalets status
 
-The status of the contract is also displayed in the upper section on the contract. The status of the contract may have the following values:
+I den övre sektionen på avtalet visas avtalets status. Avtalets status kan ha följande värden:
 
-#### Contract status values
-* Draft: When the contract has been created, but is not yet finished. No status badge displayed.
+#### Värden för avtalets status
+* Utkast: När avtalet har påbörjats, men är ännu inte klart. Ingen statusbricka visas.
 
-* Active - Not valid yet: When contract start date is later than today. The status badge is orange.
+* Aktivt - Gäller inte än: När avtalets startdatum är senare än idag. Statusbrickan är orange.
 
-* Active: When today is later than contract start date and contract end date is later than today minus 14 days (more than 14 days before contract end date occurs). Active status is also displayed when today is later than contract start date and no contract end date exists. The status badge is green.
+* Aktivt: När idag är senare än avtalets startdatum och avtalets slutdatum är senare än idag minus 14 dagar (alltså mer än 14 dagar före slutdatum infaller). Statusen Aktivt visas också när idag är senare än avtalets startdatum och avtalets slutdatum saknas helt. Statusbrickan är grön.
 
-* Active - Ending soon: When contract end date is later than today and today is later contract than end date minus 14 days (1-14 days before contract end date occurs). The status badge is orange.
+* Aktivt - Slutar snart gälla: När avtalets slutdatum är senare än idag och idag är senare än avtalets slutdatum minus 14 dagar (alltså 1-14 dagar före avtalets slutdatum infaller). Statusbrickan är orange.
 
-* Active - Just ended: When today is later than contract end date and contract end date plus 14 days is later than today (1-14 days after contract end date has occurred). The status badge is red.
+* Aktivt - Just slutat gälla: När idag är senare än avtalets slutdatum och avtalets slutdatum plus 14 dagar är senare än idag (alltså 1-14 dagar efter att avtalets slutdatum har infallit). Statusbrickan är röd.
 
-* Active - No longer valid: When today is later than contract end date plus 14 days (more than 14 days after contract end date has occurred). The status badge is red.
+* Aktivt - Inte längre giltigt: När idag är senare än avtalets slutdatum plus 14 dagar (alltså mer än 14 dagar efter att avtalets slutdatum infallit). Statusbrickan är röd.
 
-* Closed: When contract end date has passed and the contract has been actively closed. Closed status is also displayed when no contract end date exists and the contract has been actively closed. The status badge is red.
+* Avslutat: När avtalets slutdatum har passerats och avtalet aktivt har avslutats. Statusen Avslutat visas också när avtalets slutdatum saknas helt och avtalet aktivt har avslutats. Statusbrickan är röd.
 
-* Not yet implemented! Cancelled: When contract end date has not passed and the contract has been actively cancelled. Cancelled status is also displayed when no contract end date exists and the contract has been actively cancelled. The status badge is red.
+* Ej ännu implementerat! Avbrutet: När avtalets slutdatum inte har passerats än men avtalet aktivt har avbrutits. Statusen Avbrutet visas också när avtalets slutdatum saknas helt och avtalet aktivt har avbrutitis. Statusbrickan är röd.
 
 
 
