@@ -8,20 +8,20 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Advanced search with filters
+# Avancerad avtalssök med filter
 
-It is possible to use an advanced search function where the contracts can be filtered via a number of the contract's various details. Filtering can be done on:
+Det går också använda en avancerad sökfunktion där avtalen kan filtreras via ett antal av avtalets olika informationsuppgifter. Filtrering kan göras på:
 
-* Name - Free text
-* Reference number - Free text
-* Description - Free text
-* Status - A number of fixed values
-* Supplier - Free text
-* Search word - Free text
-* Start date - Date or date combinations
-* End date - Date or date combinations
-* Original end date - Date or date combinations
-* Contract value - Min- and Max-values
-* Contact - Role selection and Free text
+* Namn - Fritext
+* Referensnummer - Fritext
+* Beskrivning - Fritext
+* Status - Ett antal fasta värden
+* Leverantör - Fritext
+* Sökord - Fritext
+* Startdatum - Datum eller datumkombinationer
+* Slutdatum - Datum eller datumkombinationer
+* Ursprungligt slutdatum - Datum eller datumkombinationer
+* Avtalsvärde - Min- och Max-värden
+* Kontaktperson - Rollval och Fritext
 
-A combination of search and filtering can also be used.
+En kombination av sökning och filtrering kan också användas.
