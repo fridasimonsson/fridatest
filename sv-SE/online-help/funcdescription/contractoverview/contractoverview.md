@@ -8,9 +8,9 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Contract overview
+# Avtal översikt
 
-The contract overview page displays information about a specific contract. At the top of the page there is an upper section with contract key information and the contract status. Other information about the contract is displayed via a left menu that presents the contract information directly at the page. 
+Avtalets översiktsida presenterar information om ett avtal. Överst på sidan finns en övre sektion med nyckeluppgifter om avtalet samt nuvarande status för det. Övrig information om avtalet visas via en vänstermeny som presenterar avtalets information direkt på sidan. 
 
 
 
