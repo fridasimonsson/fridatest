@@ -8,12 +8,12 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# Vanliga frågor
+# FAQ XXX
 
-### Vanliga frågor <a name="faq"></h3>
+### Frequently asked questions XXX <a name="faq"></h3>
 
 <p spaces-before="0">
-  Vanliga frågor listas här...
+  Frequently asked questions are listed here XXX...
 </p>
 
 <p spaces-before="0">

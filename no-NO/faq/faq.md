@@ -8,12 +8,12 @@ table th { font-size:14px !important; text-align:left !important; }
 table td { font-size:14px !important; text-align:left !important; }
 </style>
 
-# FAQ
+# FAQ XXX
 
-### Frequently asked questions <a name="faq"></h3>
+### Frequently asked questions XXX <a name="faq"></h3>
 
 <p spaces-before="0">
-  Frequently asked questions are listed here...
+  Frequently asked questions are listed here XXX...
 </p>
 
 <p spaces-before="0">
