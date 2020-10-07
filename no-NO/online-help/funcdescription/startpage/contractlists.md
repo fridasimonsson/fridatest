@@ -17,7 +17,7 @@ On the start page of Visma CA contracts are grouped in different ways and displa
 <ul>
   <li>
     <p spaces-before="0">
-      New contracts
+      Upcoming start dates
     </p>
     <ul>
       <li>
@@ -57,7 +57,7 @@ On the start page of Visma CA contracts are grouped in different ways and displa
   </li>
   <li>
     <p spaces-before="0">
-      Soon expiring
+      Expiring next
     </p>
     <ul>
       <li>
@@ -67,7 +67,7 @@ On the start page of Visma CA contracts are grouped in different ways and displa
   </li>
   <li>
     <p spaces-before="0">
-      Just expired
+      Most recently expired
     </p>
     <ul>
       <li>

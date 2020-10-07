@@ -17,7 +17,7 @@ På startsidan i Visma CA visas avtal grupperade på olika sätt. Avtalen i list
 <ul>
   <li>
     <p spaces-before="0">
-      Nya avtal
+      Kommande startdatum
     </p>
     <ul>
       <li>
@@ -57,7 +57,7 @@ På startsidan i Visma CA visas avtal grupperade på olika sätt. Avtalen i list
   </li>
   <li>
     <p spaces-before="0">
-      Upphör snart
+      Närmast utgående
     </p>
     <ul>
       <li>
@@ -67,7 +67,7 @@ På startsidan i Visma CA visas avtal grupperade på olika sätt. Avtalen i list
   </li>
   <li>
     <p spaces-before="0">
-      Just upphört
+      Senast utgångna
     </p>
     <ul>
       <li>
